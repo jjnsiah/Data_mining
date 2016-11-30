@@ -6,6 +6,7 @@
 
 # Make use of data from a file name final_project_data.csv which is crowd source. 
 
+# setting the working directory. change this to match directory 
 setwd("/home/aladago/Documents/Ashesi/Fall/Data Mining/Final Project/Data_mining")
 
 # reading the entire data
