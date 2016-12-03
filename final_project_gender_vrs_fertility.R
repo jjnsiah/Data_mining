@@ -15,15 +15,18 @@ rawData <- read.csv("final_project_data.csv", header = TRUE)
 # separating the two columns(gender and kids) for analysis
 processedData <- data.frame(rawData$Gender, rawData$Kids)
 
-# attempting a box plot since the response its a categorical variable vrs quantitative variable
+# attempting a box plot since the response its a categorical variable vrs quantitative variable just for curiousity
+#this plot gives the wrong representation of the data because it's on counts.
 plot(processedData$rawData.Gender, processedData$rawData.Kids)
 
 # crosstabulating the data
 genderbyFertility <- xtabs(~processedData$rawData.Gender + processedData$rawData.Kids)
 
 # taking the proportions of the various to obtain a good representation of the data
+#There are only 31 women  against 244 men in the valid data being processed. It's unreprentative to use counts. 
 proportionalGenderbyFertility <- round(prop.table(genderbyFertility, 1)* 100, 2)
-
 # depicting a barplot of gender vrs number of children
 barplot(proportionalGenderbyFertility, col = c('green', 'blue'), beside = TRUE, legend =c('F', 'M'), ylab = "Proportion of parliamentarians", xlab = "Sex", main = "Plot of number of children by Gender for Ghana's MPs")
+
+##  end of file 
 
