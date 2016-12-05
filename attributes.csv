@@ -1,0 +1,281 @@
+shapeid,ID_0,ISO,NAME_0,MP,Number Of Children,ID_1,NAME_1,ID_2,NAME_2,NL_NAME_2,VARNAME_2,TYPE_2,ENGTYPE_2,LATITUDE,LONGITUDE
+0,87,GHA,Ghana,Kwabena Appiah-Pinkrah,4,1,Ashanti,8,Akrofuom,Adansi South District,Akrofuom,Constituency,Constituency,6.113014484,-1.614606601
+1,87,GHA,Ghana,Ernest kofi Yakah,9,1,Ashanti,35,New Edubiase,Adansi South District,New Edubiase,Constituency,Constituency,5.994919128,-1.360821077
+2,87,GHA,Ghana,David Hennric Yeboah,3,1,Ashanti,4,Afigya Sekyere East,Sekyere South District,Agona,Constituency,Constituency,6.983888401,-1.506777731
+3,87,GHA,Ghana,Kwasi Adusei,3,1,Ashanti,5,Ahafo Ano North,Ahafo Ano North District,Tepa,Constituency,Constituency,6.912121016,-2.201639978
+4,87,GHA,Ghana,Francis Manu-Adabor,5,1,Ashanti,6,Ahafo Ano South East,Ahafo Ano South District,Dwinyama,Constituency,Constituency,6.943955965,-1.881938639
+5,87,GHA,Ghana,Emmanuel Akwasi Gyamfi,3,1,Ashanti,40,Odotobiri,Amansie Central District,Jacobu,Constituency,Constituency,6.195541793,-1.802281254
+6,87,GHA,Ghana,Kwadwo Frimpong Kyei,5,1,Ashanti,20,Bosome Freho,Bosome Freho District,Asiwa,Constituency,Constituency,6.345706431,-1.355016382
+7,87,GHA,Ghana,Frimpong Yaw Addo,5,1,Ashanti,33,Manso Adubia,Amansie West District,Manso Adubia,Constituency,Constituency,6.459137704,-1.83398148
+8,87,GHA,Ghana,Agyemang Kwadwo Baah,2,1,Ashanti,10,Asante Akim North,Asante Akim North District,Agogo,Constituency,Constituency,6.846473061,-0.977316997
+9,87,GHA,Ghana,Kwaku Asante-Boateng,4,1,Ashanti,11,Asante Akim South,Asante Akim South District,Juaso,Constituency,Constituency,6.490152152,-1.104718418
+10,87,GHA,Ghana,Isaac Kwame Asiamah,3,1,Ashanti,15,Atwima Mponua,Atwima Mponua District,Nyinahin,Constituency,Constituency,6.569152429,-2.166441788
+11,87,GHA,Ghana,Anthony Boakye Osei,6,1,Ashanti,17,Atwima Nwabiagya South,Atwima Nwabiagya District,Nkwawie,Constituency,Constituency,6.688509617,-1.821644729
+12,87,GHA,Ghana,Simon Osei-Mensah,5,1,Ashanti,21,Bosomtwe,Bosomtwe District,Kuntanase,Constituency,Constituency,6.552244538,-1.46227578
+13,87,GHA,Ghana,Ama Pomaa Boateng,1,1,Ashanti,26,Juaben,Ejisu-Juaben Municipal,Juaben,Constituency,Constituency,6.714796518,-1.394989467
+14,87,GHA,Ghana,Mohammed Salisu Bamba,2,1,Ashanti,24,Ejura Sekyedumase,Ejura Sekyedumase District,Ejura,Constituency,Constituency,7.381656014,-1.428467906
+15,87,GHA,Ghana,Appiagyei Patricia,3,1,Ashanti,13,Asokwa,Asokwa Sub-Metro,Atonsu,Constituency,Constituency,6.64022228,-1.583681838
+16,87,GHA,Ghana,William Owuraku Aidoo,4,1,Ashanti,3,Afigya Kwabre South,Afigya Kwabre District,Kodie,Constituency,Constituency,6.808038536,-1.591580013
+17,87,GHA,Ghana,Kwaku Agyeman Kwarteng,3,1,Ashanti,39,Obuasi West,Obuasi Municipal,Obuasi,Constituency,Constituency,6.014607865,-1.725312138
+18,87,GHA,Ghana,Augustine Collins Ntim,3,1,Ashanti,41,Offinso North,Offinso North District,Akomadan,Constituency,Constituency,7.331850478,-1.879662482
+19,87,GHA,Ghana,Alex Adomako-Mensah,5,1,Ashanti,45,Sekyere Afram Plains,Sekyere Afram Plains District,Drobonso,Constituency,Constituency,7.255133511,-0.569799843
+20,87,GHA,Ghana,Kwame Asafu-Adjei,3,1,Ashanti,37,Nsuta-Kwamang-Beposo,Sekyere Central District,Nsuta,Constituency,Constituency,7.256379182,-1.112501352
+21,87,GHA,Ghana,Robert Sarfo-Mensah,4,2,Brong Ahafo,48,Asunafo North,Asunafo North District,Goaso,Constituency,Constituency,6.815676388,-2.694782877
+22,87,GHA,Ghana,Eric Opoku,3,2,Brong Ahafo,49,Asunafo South,Asunafo South District,Kukuom,Constituency,Constituency,6.606945896,-2.515728976
+23,87,GHA,Ghana,Joseph Benhazin Dahah,5,2,Brong Ahafo,50,Asutifi North,Asutifi North District,Kenyasi,Constituency,Constituency,7.044517825,-2.513790792
+24,87,GHA,Ghana,Nanja Sanja,5,2,Brong Ahafo,52,Atebubu-Amantin,Atebubu-Amantin District,Atebubu,Constituency,Constituency,7.651305975,-1.050230071
+25,87,GHA,Ghana,Dr. Kwabena Twum-Nuamah,3,2,Brong Ahafo,54,Berekum East,Berekum Municipal,Berekum,Constituency,Constituency,7.529539326,-2.545384567
+26,87,GHA,Ghana,William Kwasi Sabi,1,2,Brong Ahafo,57,Dormaa East,Dormaa East District,Wamfie,Constituency,Constituency,7.291691231,-2.715488216
+27,87,GHA,Ghana,Stevens Siaka,7,2,Brong Ahafo,59,Jaman North,Jaman North District,Sampa,Constituency,Constituency,7.905900175,-2.646764322
+28,87,GHA,Ghana,Yaw Maama Afful,3,2,Brong Ahafo,60,Jaman South,Jaman South District,Drobo,Constituency,Constituency,7.647180799,-2.791605737
+29,87,GHA,Ghana,Stephen Kunsu,6,2,Brong Ahafo,61,Kintampo North,Kintampo North District,Kintampo,Constituency,Constituency,8.489426982,-1.536781241
+30,87,GHA,Ghana,Yaw Effah-Baafi,5,2,Brong Ahafo,62,Kintampo South,Kintampo South District,Jema,Constituency,Constituency,8.029020719,-1.72007657
+31,87,GHA,Ghana,Derek Oduro (Maj. [Rtd]),6,2,Brong Ahafo,63,Nkoranza North,Nkoranza North District,Busunya,Constituency,Constituency,7.703449909,-1.519296854
+32,87,GHA,Ghana,Masawud Mohammed (Alhaji),4,2,Brong Ahafo,66,Pru West,Pru East District,Prang,Constituency,Constituency,8.029351717,-1.274458263
+33,87,GHA,Ghana,Dominic Napare,4,2,Brong Ahafo,67,Sene East,Sene East District,Kajaji,Constituency,Constituency,7.549318087,-0.145708831
+34,87,GHA,Ghana,Ignatius Baffour Awuah,3,2,Brong Ahafo,70,Sunyani West,Sunyani West District,Awuah Odumase,Constituency,Constituency,7.41650891,-2.34606821
+35,87,GHA,Ghana,Kwasi Agyemang Gyan-Tutu,12,2,Brong Ahafo,71,Tain,Tain District,Nsawkaw,Constituency,Constituency,7.889332539,-2.37730393
+36,87,GHA,Ghana,Freda Akosua Oheneafrewo Prempeh,0,2,Brong Ahafo,72,Tano North,Tano North District,Duayaw Nkwanta,Constituency,Constituency,7.200998796,-2.182649367
+37,87,GHA,Ghana,Hanna Louisa Bisiw (Dr.),1,2,Brong Ahafo,73,Tano South,Tano South District,Bechem,Constituency,Constituency,7.16316339,-2.018821859
+38,87,GHA,Ghana,Alex Kyeremeh,5,2,Brong Ahafo,74,Techiman North,Techiman North District,Tuobodom,Constituency,Constituency,7.73190405,-1.947273011
+39,87,GHA,Ghana,Anthony Christian Dadzie,4,3,Central,77,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese District,Abura-Dunkwa,Constituency,Constituency,5.262994179,-1.206614682
+40,87,GHA,Ghana,Charles Obeng-Inkoom,4,3,Central,79,Agona West,Agona West District,Agona-Swedru,Constituency,Constituency,5.620976058,-0.813322938
+41,87,GHA,Ghana,Cassiel Ato Forson,2,3,Central,80,Ajumako-Enyan-Esiam,Ajumako-Enyan-Esiam District,Ajumako,Constituency,Constituency,5.413098917,-0.992323843
+42,87,GHA,Ghana,Georgina Nkrumah Aboah (Mrs),2,3,Central,81,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa District,Asikuma,Constituency,Constituency,5.640025006,-1.018220337
+43,87,GHA,Ghana,Ken Ohene Agyapong,6,3,Central,83,Assin North,Assin North District,Breku,Constituency,Constituency,5.783596403,-1.360848331
+44,87,GHA,Ghana,Dominic K. Fobih (Prof),9,3,Central,84,Assin South,Assin South District,Nsuaem-Kyekyewere,Constituency,Constituency,5.456344109,-1.253102818
+45,87,GHA,Ghana,Hawa Mavis Koomson (Mrs),3,3,Central,85,Awutu Senya East,Awutu Senya East District,Kasoa,Constituency,Constituency,5.527776123,-0.468922559
+46,87,GHA,Ghana,Kweku Ricketts-Hagan,5,3,Central,88,Cape Coast South,Cape Coast Metropolis,Cape Coast,Constituency,Constituency,5.144413245,-1.291215711
+47,87,GHA,Ghana,Aquinas Quansah,1,3,Central,95,KEEA,KEEA District,Komenda,Constituency,Constituency,5.125755149,-1.448111153
+48,87,GHA,Ghana,Stephen Nana Ato Arthur (Dr),3,3,Central,94,Hermang Lower Denkyira,Hermang Lower Denkyira District,Hermang,Constituency,Constituency,5.645821968,-1.594830351
+49,87,GHA,Ghana,Ato Samuel Amoah,4,3,Central,96,Mfantseman,Mfantseman District,Saltpong,Constituency,Constituency,5.251500843,-1.095208248
+50,87,GHA,Ghana,Benjamin Kofi Ayeh,0,3,Central,98,Upper Denkyira East,Upper Denkyira East District,Dunkwa-On-Offin,Constituency,Constituency,5.849061401,-1.754703171
+51,87,GHA,Ghana,William Agyapong Quaittoo,4,4,Eastern,106,Afram Plains South,Afram Plains South District,Tease,Constituency,Constituency,6.842665424,-0.260567319
+52,87,GHA,Ghana,David Oppon-Kusi,7,4,Eastern,126,Nsawam-Adoagyiri,Nsawam-Adoagyiri District,Nsawam,Constituency,Constituency,5.78542372,-0.310044253
+53,87,GHA,Ghana,Abena Osei-Asare (Mrs),2,4,Eastern,113,Asuogyaman,Asuogyaman District,Atimpoku,Constituency,Constituency,6.38532976,0.080023952
+54,87,GHA,Ghana,Kwasi Amoako-Attah,4,4,Eastern,114,Atiwa East,Atiwa East District,Anyinam,Constituency,Constituency,6.346113985,-0.609249421
+55,87,GHA,Ghana,Daniel Botwe,3,4,Eastern,127,Ofoase-Ayirebi,Akyemansa District,Ofoase,Constituency,Constituency,6.105516589,-1.091223078
+56,87,GHA,Ghana,William Ofori Boafo,1,4,Eastern,108,Akim Swedru,Birim South District,Akim Swedru,Constituency,Constituency,5.855611034,-1.051899984
+57,87,GHA,Ghana,Samuel Atta Akyea,3,4,Eastern,102,Abuakwa North,East Akyem District,Kukurantumi,Constituency,Constituency,6.189577099,-0.412611059
+58,87,GHA,Ghana,Kofi Okyere-Agyekum,3,4,Eastern,117,Fanteakwa North,Fanteakwa District,Begoro,Constituency,Constituency,6.533392483,-0.312065862
+59,87,GHA,Ghana,Ebenezer Okletey Terlabi,3,4,Eastern,119,Kade,Kwaebibirem District,Kade,Constituency,Constituency,6.198224908,-0.84013144
+60,87,GHA,Ghana,Kwasi Boateng Adjei,3,4,Eastern,122,Mpraeso,Kwahu South District,Mpreaso,Constituency,Constituency,6.597308865,-0.588210794
+61,87,GHA,Ghana,Frank Annoh-Dompreh,3,4,Eastern,125,Nkawkaw,Kwahu West Municipal,Nkwakaw,Constituency,Constituency,6.516523716,-0.778617074
+62,87,GHA,Ghana,Joseph Sam Amankwanor,5,4,Eastern,130,Upper Manya Krobo,Upper Manya Krobo District,Asesewa,Constituency,Constituency,6.435367778,-0.128509462
+63,87,GHA,Ghana,Mark Assibey-Yeboah (Dr),3,4,Eastern,123,New Juaben North,New Juaben Municipal,"Oyoko, Asokore",Constituency,Constituency,6.141956977,-0.29659421
+64,87,GHA,Ghana,Kwame Seth Acheampong,0,4,Eastern,121,Lower West Akim,Lower West Akim Municipal,Asamankese,Constituency,Constituency,5.794412073,-0.592436663
+65,87,GHA,Ghana,Theophilus Tetteh Chaie,1,4,Eastern,132,Yilo Krobo,Yilo Krobo District,Somanya,Constituency,Constituency,6.19723145,-0.173311678
+66,87,GHA,Ghana,Mustapha Ahmed (Maj [Rtd]) (Dr) (Alh),3,5,Greater Accra,143,Ayawaso East,Ayawaso Sub-Metro,Nima,Constituency,Constituency,5.631609715,-0.148157027
+67,87,GHA,Ghana,Irene Naa Torshie Addo (Mrs),2,5,Greater Accra,161,Shai-Osudoku,Shai-Osudoku District,Dodowa,Constituency,Constituency,6.007916486,0.122317138
+68,87,GHA,Ghana,David Tetteh Assumeng,1,5,Greater Accra,160,Sege,Dangme West District,Sege,Constituency,Constituency,5.889524355,0.389741462
+68.1,87,GHA,Ghana,Kofi Brako,4,5,Greater Accra,160,Sege,Dangme West District,Sege,Constituency,Constituency,5.889524355,0.389741462
+68.2,87,GHA,Ghana,Daniel Nii Kwartei Titus-Glover,4,5,Greater Accra,160,Sege,Dangme West District,Sege,Constituency,Constituency,5.889524355,0.389741462
+69,87,GHA,Ghana,Enoch Teye Mensah,7,5,Greater Accra,154,Madina,La Nkwantanang-Madina Mun,Madina,Constituency,Constituency,5.733420944,-0.203228774
+70,87,GHA,Ghana,Abudu Nelson Baani,5,6,Northern,168,Bole-Bamboi,Bole District,Bole,Constituency,Constituency,8.655004298,-2.259235975
+71,87,GHA,Ghana,Noah Ben Azure,3,6,Northern,196,Yunyoo,Bunkpurugu-Yunyoo District,Yunyoo,Constituency,Constituency,10.49676955,-0.144956219
+72,87,GHA,Ghana,Jabaah John Bennam,7,6,Northern,194,Yapei-Kusawgu,Central Gonja District,Buipe,Constituency,Constituency,8.924204415,-1.323489784
+73,87,GHA,Ghana,Inusah Abdulai B. Fuseini (Alhaji),4,6,Northern,183,Salaga South,East Gonja District,Salaga,Constituency,Constituency,8.38300552,-0.76984839
+74,87,GHA,Ghana,Bashir Fuseini Alhassan,4,6,Northern,178,Nalerigu-Gambaga,East Mamprusi District,Gambaga,Constituency,Constituency,10.45617337,-0.422512924
+75,87,GHA,Ghana,Amadu Moses Yahaya,2,6,Northern,173,Gushegu,Gushegu District,Gushegu,Constituency,Constituency,10.02590394,-0.164524796
+76,87,GHA,Ghana,Ahmed Yakubu Alhassan (Dr),3,6,Northern,174,Karaga,Karaga District,Karaga,Constituency,Constituency,9.875047178,-0.527275256
+77,87,GHA,Ghana,Namoro Sanda Azumah,9,6,Northern,167,Bimbilla,Nanumba North District,Bimbilla,Constituency,Constituency,8.843094779,-0.129934356
+78,87,GHA,Ghana,Tijani Habibu Mohammad (Alhaji),3,6,Northern,192,Wulensi,Nanumba South District,Wulensi,Constituency,Constituency,8.775389473,0.123585996
+79,87,GHA,Ghana,Matthew Nyindam,4,6,Northern,170,Chereponi,Chereponi District,Chereponi,Constituency,Constituency,10.12765666,0.231660881
+80,87,GHA,Ghana,Dahamani Alhassan,2,6,Northern,184,Savelugu,Savelugu-Nanton District,Savelugu,Constituency,Constituency,9.854706243,-0.840871862
+81,87,GHA,Ghana,Haruna Iddrisu,1,6,Northern,185,Sawla-Tuna-Kalba,Sawla-Tuna-Kalba District,Sawla,Constituency,Constituency,9.459284455,-2.388774812
+82,87,GHA,Ghana,Sagre Bambangi (Dr.),NA,6,Northern,188,Tamale South,Tamale Metropolis,Tamale-Lamashegu,Constituency,Constituency,9.367807937,-0.775784013
+83,87,GHA,Ghana,Murtala Ibrahim Muhammed,1,6,Northern,176,Kumbungu,Kumbungu District,Kumbungu,Constituency,Constituency,9.756809223,-1.110349045
+84,87,GHA,Ghana,Sualihu Dandaawa Alhassan,0,6,Northern,171,Daboya-Mankarigu,North Gonja District,Daboya,Constituency,Constituency,9.664014167,-1.551613925
+85,87,GHA,Ghana,Seidu Amadu (Alhaji),7,6,Northern,191,Walewale,West Mamprusi District,Walewale,Constituency,Constituency,10.32734533,-0.851048091
+86,87,GHA,Ghana,Joseph Nikpe Bukari,2,6,Northern,177,Mion,Mion District,Sang,Constituency,Constituency,9.389222963,-0.199110507
+87,87,GHA,Ghana,Opam-Brown Emmanuel Akolbire,6,6,Northern,197,Zabzugu,Zabzugu District,Zabzugu,Constituency,Constituency,9.16484855,0.316292901
+88,87,GHA,Ghana,Dominic Ayine,6,7,Upper East,198,Bawku Central,Bawku Municipal,Bawku,Constituency,Constituency,10.95692776,-0.308844179
+89,87,GHA,Ghana,Edward Kaale-Ewola Dery,NA,7,Upper East,212,Zebilla,Bawku West District,Zebilla,Constituency,Constituency,10.82611694,-0.474713674
+90,87,GHA,Ghana,James Agalga,1,7,Upper East,200,Bolgatanga Central,Bolgatanga Municipal,Bolgatanga,Constituency,Constituency,10.7380149,-0.938339648
+91,87,GHA,Ghana,Pele Abuga,0,7,Upper East,202,Bongo,Bongo District,Bongo,Constituency,Constituency,10.91381403,-0.793120969
+92,87,GHA,Ghana,Azimbe Dominic Azumah,4,7,Upper East,203,Builsa North,Builsa North District,Sandema,Constituency,Constituency,10.67856159,-1.333579759
+93,87,GHA,Ghana,Laadi Ayii Ayamba,3,7,Upper East,206,Garu,Garu-Tempane District,Garu,Constituency,Constituency,10.76751914,-0.237199452
+94,87,GHA,Ghana,Mark Owen Woyongo,2,7,Upper East,205,Chiana-Paga,Kassena-Nankana West District,Paga,Constituency,Constituency,10.89764072,-1.307358073
+95,87,GHA,Ghana,Mathias Asoma Puozaa,5,7,Upper East,210,Talensi,Talensi District,Tongo,Constituency,Constituency,10.63608588,-0.722483606
+96,87,GHA,Ghana,Alban S. K. Bagbin,NA,8,Upper West,214,Jirapa,Jirapa District,Jirapa,Constituency,Constituency,10.59957586,-2.589684604
+97,87,GHA,Ghana,Alijata Sulemana Gbentie (Hajia),NA,8,Upper West,216,Lawra,Lawra District,Lawra,Constituency,Constituency,10.65224267,-2.817758238
+98,87,GHA,Ghana,Samson Abu,4,8,Upper West,213,Daffiama-Bussie-Issa,Daffiama-Bussie-Issa District,Issa,Constituency,Constituency,10.35719161,-2.351313691
+99,87,GHA,Ghana,Ameen Salifu,3,8,Upper West,219,Sissala East,Sissala East District,Tumu,Constituency,Constituency,10.63622146,-1.75302673
+100,87,GHA,Ghana,Joseph Yieleh Chireh,4,8,Upper West,220,Sissala West,Sissala West District,Gwollu,Constituency,Constituency,10.72090556,-2.215576649
+101,87,GHA,Ghana,Joseph Z. Amenowode,7,8,Upper West,222,Wa East,Wa East District,Funsi,Constituency,Constituency,9.990767543,-1.885636472
+102,87,GHA,Ghana,Juliana Azumah-Mensah (Mrs),2,8,Upper West,223,Wa West,Wa West District,Wechiau,Constituency,Constituency,9.929437097,-2.665728095
+103,87,GHA,Ghana,Kwame Governs Agbodza,3,7,Upper West,221,Wa Central,Wa Municipal,Wa,Constituency,Constituency,9.974053254,-2.297222186
+104,87,GHA,Ghana,James Klutse Avedzi,2,9,Volta,235,Ho West,Ho West District,Dzolokpuita,Constituency,Constituency,6.56018204,0.389903968
+105,87,GHA,Ghana,Emmanuel Kwasi Bandua,3,9,Volta,228,Akatsi North,Akatsi North District,Ave Dakpa,Constituency,Constituency,6.26448025,0.825454942
+106,87,GHA,Ghana,Peter Nortsu-Kotoe,2,9,Volta,225,Afadjato South,Afadjato South District,Ve Golokwati,Constituency,Constituency,6.875702052,0.410205284
+107,87,GHA,Ghana,Benjamin Komla Kpodo,7,9,Volta,231,Biakoye,Biakoye District,Nkonya Ahenkro,Constituency,Constituency,7.312608722,0.337758808
+108,87,GHA,Ghana,Clement Kofi Humado,5,9,Volta,227,Akan,Kadjebi District,Kadjebi,Constituency,Constituency,7.742452881,0.499141453
+109,87,GHA,Ghana,Della Sowah (Mrs),3,9,Volta,237,Keta,Keta Municipal,Keta,Constituency,Constituency,5.935716826,0.910065705
+110,87,GHA,Ghana,Wisdom Gidisu,8,9,Volta,238,Ketu North,Ketu North District,Dzodze,Constituency,Constituency,6.153846359,0.970627743
+111,87,GHA,Ghana,Helen Adjoa Ntoso,3,9,Volta,240,Kpando,Kpando Municipal,Kpando,Constituency,Constituency,6.983902068,0.28201759
+112,87,GHA,Ghana,Kwabena Bless John Oti,0,9,Volta,241,Krachi East,Krachi East District,Dambai,Constituency,Constituency,7.738166391,0.216866016
+113,87,GHA,Ghana,George Loh,1,9,Volta,243,Krachi West,Krachi West District,Kete-Krachi,Constituency,Constituency,8.158324373,-0.07865265
+114,87,GHA,Ghana,Samuel Okudzeto Ablakwa,1,9,Volta,244,Nkwanta North,Nkwanta North District,Kpasa,Constituency,Constituency,8.509535205,0.362437539
+115,87,GHA,Ghana,George Kwame Aboagye,4,9,Volta,247,North Tongu,North Tongu District,Battor Dugame,Constituency,Constituency,6.167674739,0.312514883
+116,87,GHA,Ghana,George Kofi Arthur,0,9,Volta,248,South Dayi,South Dayi District,Kpeve,Constituency,Constituency,6.564632679,0.214035479
+117,87,GHA,Ghana,Akwasi Opong-Fosu,4,9,Volta,249,South Tongu,South Tongu District,Sogakope,Constituency,Constituency,5.969018989,0.662368193
+118,87,GHA,Ghana,Eric Afful,NA,10,Western,250,Ahanta West,Ahanta West District,Agona-Nkwanta,Constituency,Constituency,4.849522596,-2.009787098
+118.1,87,GHA,Ghana,Mathias Kwame Ntow,5,10,Western,250,Ahanta West,Ahanta West District,Agona-Nkwanta,Constituency,Constituency,4.849522596,-2.009787098
+119,87,GHA,Ghana,Sampson Ahi,5,10,Western,254,Aowin,Aowin District,Enchi,Constituency,Constituency,5.724290416,-2.705325682
+120,87,GHA,Ghana,Joseph Cudjoe,3,10,Western,255,Bia East,Bia East District,Asokore Adabokrom,Constituency,Constituency,6.760667165,-2.968720668
+121,87,GHA,Ghana,Joe Ghartey,5,10,Western,257,Bibiani-Anhwiaso-Bekwai,Bibiani-Anhwiaso-Bekwai District,Bibiani,Constituency,Constituency,6.284620766,-2.26210825
+122,87,GHA,Ghana,Francis Adu-Blay Koffie,2,10,Western,263,Jomoro,Jomoro District,Half-Assin,Constituency,Constituency,5.172645772,-2.668265439
+123,87,GHA,Ghana,"Herod Cobbina,",3,10,Western,264,Juaboso,Juaboso District,Juaboso,Constituency,Constituency,6.46074104,-2.929838974
+124,87,GHA,Ghana,,,10,Western,275,Wassa East,Wassa East District,Daboase,Constituency,Constituency,5.384999776,-1.662791961
+125,87,GHA,Ghana,Mintah Kwabena Akando,4,10,Western,260,Ellembelle,Ellembelle District,Ellembele,Constituency,Constituency,5.161016167,-2.400393751
+126,87,GHA,Ghana,Stephen M. E. K. Ackah,3,10,Western,268,Sefwi Akontombra,Sefwi Akontombra District,Sefwi Akontombra,Constituency,Constituency,6.227181867,-2.544397902
+127,87,GHA,Ghana,,,10,Western,273,Takoradi,Takoradi Sub-Metro,Takoradi,Constituency,Constituency,4.940560046,-1.766688645
+128,87,GHA,Ghana,Michael Coffie Boampong,6,10,Western,252,Amenfi East,Amenfi East District,"Akropong, Afransie",Constituency,Constituency,5.797552601,-2.009582598
+129,87,GHA,Ghana,Richard Acheampong,5,10,Western,251,Amenfi Central,Amenfi Central District,Manso Amenfi,Constituency,Constituency,5.84098797,-2.250345047
+130,87,GHA,Ghana,Gabriel Kodwo Essilfie,4,10,Western,267,Prestea-Huni Valley,Prestea-Huni Valley District,Bogoso,Constituency,Constituency,5.46437743,-2.028886821
+131,87,GHA,Ghana,Emmanuel Armah-Kofi Buah,2,10,Western,256,Bia West,Bia West District,Essam,Constituency,Constituency,6.704352906,-3.14524774
+132,87,GHA,Ghana,Kweku Tanikyi Kessie,3,10,Western,258,Bodi,Bodi District,Bodi,Constituency,Constituency,6.249384679,-2.918250583
+133,87,GHA,Ghana,Kwabena Okyere Darko-Mensah,2,10,Western,269,Sefwi Wiawso,Sefwi Wiawso District,Wiawso,Constituency,Constituency,6.063697979,-2.797010066
+134,87,GHA,Ghana,,,10,Western,272,Suaman,Suaman District,Dadieso,Constituency,Constituency,5.951089189,-2.977956311
+135,87,GHA,Ghana,Gyedu Kingsley Aboagye,4,10,Western,253,Amenfi West,Amenfi West District,Asankrangwa,Constituency,Constituency,5.605408085,-2.436578088
+136,87,GHA,Ghana,Alex Kofi Agyekum,4,10,Western,262,Evalue-Ajomoro-Gwira,Nzema East Municipal,Axim,Constituency,Constituency,5.107119246,-2.203862513
+137,87,GHA,Ghana,,,10,Western,274,Tarkwa-Nsuaem,Tarkwa-Nsuaem District,Tarkwa,Constituency,Constituency,5.182473084,-1.947508227
+138,87,GHA,Ghana,Papa Owusu-Ankomah,3,10,Western,266,Mpohor,Mpohor District,Mpohor,Constituency,Constituency,5.063199787,-1.818102991
+139,87,GHA,Ghana,Isaac Adjei Mensah,5,10,Western,271,Shama,Shama District,Shama,Constituency,Constituency,5.141182082,-1.561378653
+139.1,87,GHA,Ghana,,,10,Western,271,Shama,Shama District,Shama,Constituency,Constituency,5.141182082,-1.561378653
+140,87,GHA,Ghana,Evans Paul Aidoo,5,10,Western,265,Kwesimintsim,Effia-Kwesimintsim Sub-Metro,Kwesimintsim,Constituency,Constituency,5.023925065,-1.717029346
+141,87,GHA,Ghana,Francis K. Anaman (WG. CDR. [RTD]),3,10,Western,259,Effia,Effia-Kwesimintsim Sub-Metro,Effiakuma,Constituency,Constituency,5.072104298,-1.642918792
+142,87,GHA,Ghana,Joe Baidoe-Ansah,3,10,Western,261,Essikado-Ketan,Essikado-Ketan Sub-Metro,Essikado,Constituency,Constituency,5.024948382,-1.626854448
+143,87,GHA,Ghana,Gifty Eugenia Kusi (Mrs),4,10,Western,270,Sekondi,Sekondi Sub-Metro,Sekondi,Constituency,Constituency,4.982974759,-1.69567383
+144,87,GHA,Ghana,Ebo Barton-Odro,4,3,Central,87,Cape Coast North,Cape Coast Metropolis,Ankanful,Constituency,Constituency,5.217345023,-1.341938673
+145,87,GHA,Ghana,Nana Amoakoh,3,3,Central,97,Twifo-Atii Morkwaa,Twifo-Atii Morkwaa District,Twifo Praso,Constituency,Constituency,5.368347984,-1.436602082
+146,87,GHA,Ghana,Samuel Ambre,3,3,Central,82,Assin Central,Assin North District,Assin-Foso,Constituency,Constituency,5.598940054,-1.303812949
+147,87,GHA,Ghana,Queenstar Pokuah Sawyerr (Mrs),4,3,Central,78,Agona East,Agona East District,Agona-Nsaba,Constituency,Constituency,5.616482712,-0.680729599
+148,87,GHA,Ghana,Ekow Panyin Okyere Eduamoah,4,3,Central,92,Gomoa East,Gomoa East District,Fetteh,Constituency,Constituency,5.44337241,-0.657124678
+148.1,87,GHA,Ghana,Francis Kojo Arthur,10,3,Central,92,Gomoa East,Gomoa East District,Fetteh,Constituency,Constituency,5.44337241,-0.657124678
+149,87,GHA,Ghana,Hanna Serwaah Tetteh (Ms),2,3,Central,86,Awutu Senya West,Awutu Senya West District,Awutu Senya,Constituency,Constituency,5.647661895,-0.565124965
+150,87,GHA,Ghana,Alexander Kwamina Afenyo-Markin,0,3,Central,89,Effutu,Effutu District,Winneba,Constituency,Constituency,5.33389364,-0.697456397
+151,87,GHA,Ghana,Foster Joseph Andoh,3,3,Central,93,Gomoa West,Gomoa West District,Apam,Constituency,Constituency,5.337032717,-0.860190105
+152,87,GHA,Ghana,Bryan Acheampong,NA,3,Central,99,Upper Denkyira West,Upper Denkyira West District,Dominase,Constituency,Constituency,6.126902301,-2.029283345
+153,87,GHA,Ghana,Abeiku Crentsil,4,3,Central,90,Ekumfi,Ekumfi District,Ekumfi Narkwa,Constituency,Constituency,5.2516283,-0.96817075
+154,87,GHA,Ghana,Rachel Florence Appoh (Ms),1,3,Central,91,Gomoa Central,Gomoa East District,Aboso,Constituency,Constituency,5.317763544,-0.772454789
+155,87,GHA,Ghana,Solomon Namliit Boar,5,5,Greater Accra,166,Weija-Gbawe,Ga South Municipal,Weija,Constituency,Constituency,5.559241851,-0.364200904
+156,87,GHA,Ghana,Emmanuel Nii Ashie-Moore,0,5,Greater Accra,137,Ada,Dangme East District,Ada Foah,Constituency,Constituency,5.868325005,0.545617528
+157,87,GHA,Ghana,Edwin NiiåÊLantey Vanderpuye,6,5,Greater Accra,155,Ningo Prampram,Ningo Prampram District,Prampram,Constituency,Constituency,5.836471006,0.195842439
+158,87,GHA,Ghana,Nii Oakley Quaye-Kumah (Dr),4,5,Greater Accra,151,Kpone-Katamanso,Kpone-Katamanso District,Kpone,Constituency,Constituency,5.800519744,-0.017513384
+159,87,GHA,Ghana,Sarah Adwoa Safo (Ms),0,5,Greater Accra,148,Domeabra-Obom,Ga South Municipal,Domeabra,Constituency,Constituency,5.698123376,-0.373084731
+160,87,GHA,Ghana,Rosemund Comfort Abrah (Ms.),0,5,Greater Accra,163,Tema East,Tema Metropolis,Tema Com 1,Constituency,Constituency,5.673548367,0.01927506
+161,87,GHA,Ghana,Moses Anim,NA,5,Greater Accra,162,Tema Central,Tema Metropolis,Tema Com 7,Constituency,Constituency,5.651328483,-0.033810294
+162,87,GHA,Ghana,Dominic B. A. Nitiwul,3,5,Greater Accra,164,Tema West,Tema Metropolis,Sakumono,Constituency,Constituency,5.638970338,-0.097325762
+163,87,GHA,Ghana,Nii Okai Emmanuel Laryea,2,5,Greater Accra,138,Adenta,Adentan Municipal,Adenta,Constituency,Constituency,5.709702043,-0.123891599
+164,87,GHA,Ghana,Henry Quartey,4,5,Greater Accra,141,Ashaiman,Ashaiman Municipal,Ashaiman,Constituency,Constituency,5.705225222,-0.027968105
+165,87,GHA,Ghana,Comfort Doyoe Cudjoe-Ghansah (Mrs.),6,5,Greater Accra,136,Ablekuma West,Ablekuma Sub-Metro,Dansoman,Constituency,Constituency,5.622890475,-0.318638242
+166,87,GHA,Ghana,Alfred Kwame Agbesi,6,5,Greater Accra,140,Anyaa-Sowutuom,Ga Central Municipal,Sowutuom,Constituency,Constituency,5.580460669,-0.331227584
+167,87,GHA,Ghana,Nii Amasah Namoale,3,5,Greater Accra,146,Bortianor-Ngleshie Amanfro,Ga South Municipal,Amanfro,Constituency,Constituency,5.694466068,-0.452865023
+168,87,GHA,Ghana,Joseph Akati Saaka (Alhaji),7,5,Greater Accra,165,Trobu,Ga West Municipal,Ofankor,Constituency,Constituency,5.692415565,-0.293490784
+169,87,GHA,Ghana,Shirley A. Botchway(Ms),2,5,Greater Accra,139,Amasaman,Ga West Municipal,Amasaman,Constituency,Constituency,5.710992138,-0.262906409
+170,87,GHA,Ghana,Fritz Frederic Baffour,4,5,Greater Accra,134,Ablekuma North,Ablekuma Sub-Metro,Kwashieman,Constituency,Constituency,5.630745757,-0.272532859
+171,87,GHA,Ghana,Justice Joe Appiah,5,5,Greater Accra,133,Ablekuma Central,Ablekuma Sub-Metro,Abossey Okai,Constituency,Constituency,5.600585134,-0.276514135
+172,87,GHA,Ghana,Joseph Nii Laryea Afotey-Agbo,5,5,Greater Accra,150,Korle Klottey,Osu Klottey Sub-Metro,Osu,Constituency,Constituency,5.535843807,-0.26725407
+173,87,GHA,Ghana,Ursula G. Owusu-Ekuful (Mrs.),0,5,Greater Accra,135,Ablekuma South,Ablekuma Sub-Metro,Korle-Gonno,Constituency,Constituency,5.567420036,-0.274257267
+174,87,GHA,Ghana,Patrick Yaw Boamah,2,5,Greater Accra,156,Odododiodioo,Ashiedu Keteke Sub-Metro,James-Town,Constituency,Constituency,5.554431083,-0.226700316
+175,87,GHA,Ghana,Benita Sena Okity-Duah (Mrs.),2,5,Greater Accra,152,Krowor,Ledzokuku-Krowor Municipal,Nungua,Constituency,Constituency,5.592560958,-0.116503942
+176,87,GHA,Ghana,Christian Corleytey Otuteye,0,5,Greater Accra,159,Okaikwei South,Okaikwei Sub-Metro,Kaneshie,Constituency,Constituency,5.59568668,-0.229911092
+177,87,GHA,Ghana,Ahmed Arthur,3,5,Greater Accra,158,Okaikwei North,Okaikwei Sub-Metro,Achimota,Constituency,Constituency,5.65164314,-0.233608831
+178,87,GHA,Ghana,Elizabeth K. T. Sackey(Mrs),4,5,Greater Accra,157,Okaikwei Central,Okaikwei Sub-Metro,Abeka-Lapaz,Constituency,Constituency,5.623373997,-0.231201597
+179,87,GHA,Ghana,Nii Armah Ashietey,2,5,Greater Accra,149,Dome-Kwabenya,Ga East Municipal,Dome,Constituency,Constituency,5.696502697,-0.22455234
+180,87,GHA,Ghana,Bright Edward Kodzo Demordzi,3,5,Greater Accra,145,Ayawaso West Wuogon,Ayawaso Sub-Metro,University of Ghana,Constituency,Constituency,5.645310768,-0.201057128
+181,87,GHA,Ghana,Daoud Anum Yemoh,5,5,Greater Accra,147,Dadekotopon,La Sub-Metro,La,Constituency,Constituency,5.566129893,-0.191307836
+182,87,GHA,Ghana,Amadu B. Sorogho (Alhaji),6,5,Greater Accra,153,Ledzokuku,Ledzokuku-Krowor Municipal,Teshie,Constituency,Constituency,5.577450166,-0.156448185
+183,87,GHA,Ghana,Naser Toure Mahama,2,5,Greater Accra,142,Ayawaso Central,Ayawaso Sub-Metro,Kokomlemle,Constituency,Constituency,5.60799675,-0.181951878
+184,87,GHA,Ghana,Kyeremateng Emmanuel Agyarko,7,5,Greater Accra,144,Ayawaso North,Ayawaso Sub-Metro,Mamobi,Constituency,Constituency,5.654076373,-0.175344838
+185,87,GHA,Ghana,Joe Kwashie Gidisu,3,9,Volta,230,Anlo,Keta Municipal,Anloga,Constituency,Constituency,5.831192715,0.814726406
+186,87,GHA,Ghana,John Majisi,7,9,Volta,239,Ketu South,Ketu South Municipal,Denu,Constituency,Constituency,6.082565677,1.073047946
+187,87,GHA,Ghana,Kwasi Ashiamah,NA,9,Volta,229,Akatsi South,Akatsi South District,Akatsi,Constituency,Constituency,6.055061885,0.795608244
+188,87,GHA,Ghana,Bernice Adiku Heloo (Mrs) (PhD),3,9,Volta,233,Central Tongu,Central Tongu District,Adidome,Constituency,Constituency,6.148074764,0.588074156
+189,87,GHA,Ghana,Joseph Kwadwo Ofori,NA,9,Volta,224,Adaklu,Adaklu District,Adaklu Waya,Constituency,Constituency,6.339297424,0.648951887
+190,87,GHA,Ghana,Bernard Ahiafor,2,9,Volta,226,Agotime-Ziope,Agotime-Ziope District,Kpetoe,Constituency,Constituency,6.414999548,0.577888513
+191,87,GHA,Ghana,Richard Mawuli Quashigah,1,9,Volta,234,Ho Central,Ho Municipal,Ho,Constituency,Constituency,6.593869852,0.556272449
+192,87,GHA,Ghana,Kobena Mensah Woyome,3,9,Volta,246,North Dayi,North Dayi District,Anfoega,Constituency,Constituency,6.817129073,0.248161387
+193,87,GHA,Ghana,Fiifi Fiavi Kwetey,4,9,Volta,236,Hohoe,Hohoe Municipal,Hohoe,Constituency,Constituency,7.142091472,0.516766112
+194,87,GHA,Ghana,Gershon K. B. Gbediame,5,9,Volta,242,Krachi Nchumuru,Krachi Nchumuru District,Chinderi,Constituency,Constituency,7.901686695,-0.007168783
+195,87,GHA,Ghana,Edem Asmah,5,9,Volta,245,Nkwanta South,Nkwanta South District,Nkwanta,Constituency,Constituency,8.156817975,0.414404891
+196,87,GHA,Ghana,Emmanuel Kwasi Bedzrah,4,9,Volta,232,Buem,Jasikan District,Jasikan,Constituency,Constituency,7.368826027,0.518823869
+197,87,GHA,Ghana,Joseph Appiah Boateng,3,4,Eastern,105,Afram Plains North,Afram Plains North District,Donkorkrom,Constituency,Constituency,7.025584832,0.034832566
+198,87,GHA,Ghana,Esther Obeng Dappah(Ms),3,4,Eastern,100,Abetifi,Kwahu East District,Abetifi,Constituency,Constituency,6.737793693,-0.769087498
+199,87,GHA,Ghana,Samuel Ayeh-Paye,3,4,Eastern,115,Atiwa West,Atiwa East District,Kwabeng,Constituency,Constituency,6.335685182,-0.760959626
+200,87,GHA,Ghana,Gifty Twum-Ampofo,NA,4,Eastern,101,Abirem,Birim North District,New-Abirem,Constituency,Constituency,6.405173869,-0.969321551
+201,87,GHA,Ghana,Yaw Owusu-Boateng,3,4,Eastern,111,Akwatia,Denkyembuo District,Akwatia,Constituency,Constituency,6.044815247,-0.799506051
+202,87,GHA,Ghana,Ofosu Asamoah,3,4,Eastern,118,Fanteakwa South,Fanteakwa District,Bosuso,Constituency,Constituency,6.354268091,-0.387496089
+203,87,GHA,Ghana,Robert Kwasi Amoah,8,4,Eastern,103,Abuakwa South,East Akyem District,Kibi,Constituency,Constituency,6.161982243,-0.544647426
+204,87,GHA,Ghana,Eric Kwakye Darfour,3,4,Eastern,124,New Juaben South,New Juaben Municipal,Koforidua,Constituency,Constituency,6.075441746,-0.26139088
+205,87,GHA,Ghana,Gifty Klenam (Ms),2,4,Eastern,120,Lower Manya Krobo,Lower Manya Krobo District,Odumasi-Krobo,Constituency,Constituency,6.242627317,-0.032350648
+206,87,GHA,Ghana,Frederick Opare-Ansah,0,4,Eastern,128,Okere,Akwapem North District,Adukrom,Constituency,Constituency,6.03373341,-0.123745944
+207,87,GHA,Ghana,Jeff Tetteh Kavianu,4,4,Eastern,129,Suhum,Suhum District,Suhum,Constituency,Constituency,6.020746536,-0.41033906
+208,87,GHA,Ghana,Amankwa Kwabena Asiamah,7,4,Eastern,116,Ayensuano,Ayensuano District,Coaltar,Constituency,Constituency,5.914792279,-0.493368291
+209,87,GHA,Ghana,Osei Bonsu Amoah,3,4,Eastern,109,Akwapem North,Akwapem North District,Akropong,Constituency,Constituency,5.939642271,-0.181322632
+210,87,GHA,Ghana,Baba Jamal Mohammed Ahmed,5,4,Eastern,110,Akwapem South,Akwapem South District,Aburi,Constituency,Constituency,5.844911713,-0.22960354
+211,87,GHA,Ghana,Magnus Kofi Amoatey,4,4,Eastern,131,Upper West Akim,Upper West Akim District,Adeiso,Constituency,Constituency,5.930487441,-0.704451105
+212,87,GHA,Ghana,Kofi Osei-Ameyaw,2,4,Eastern,112,Asene-Akroso-Manso,Birim Central District,Akim Akroso,Constituency,Constituency,5.881804089,-0.804819253
+213,87,GHA,Ghana,Kennedy Nyarko Osei,0,4,Eastern,107,Akim Oda,Birim Central District,Akim Oda,Constituency,Constituency,5.861199177,-0.903025927
+214,87,GHA,Ghana,Aboagye Emmanuel Didieye,1,4,Eastern,104,Achiase,Birim South District,Achiase,Constituency,Constituency,5.808786944,-1.096824798
+215,87,GHA,Ghana,Kobina Tahir Hammond,0,1,Ashanti,1,Adansi Asokwa,Adansi North District,Asokwa,Constituency,Constituency,6.184581837,-1.435181597
+216,87,GHA,Ghana,Daniel Kingsley Atta Boafo,3,1,Ashanti,25,Fomena,Adansi North District,Fomena,Constituency,Constituency,6.286162663,-1.551297346
+217,87,GHA,Ghana,"Joseph Osei-Owusu,",4,1,Ashanti,19,Bekwai,Bekwai Municipal,Bekwai,Constituency,Constituency,6.417357753,-1.607229717
+218,87,GHA,Ghana,Kojo Appiah-Kubi (Dr),5,1,Ashanti,14,Atwima Kwanwoma,Atwima Kwanwoma District,Foase Kokoben,Constituency,Constituency,6.592025185,-1.70056659
+219,87,GHA,Ghana,Kwabena Owusu-Aduomi,3,1,Ashanti,23,Ejisu,Ejisu-Juaben Municipal,Ejisu,Constituency,Constituency,6.576205267,-1.330997969
+220,87,GHA,Ghana,Richard W. Anane (Dr),4,1,Ashanti,36,Nhyiaeso,Nhyiaeso Sub-Metro,Nhyiaeso,Constituency,Constituency,6.683660451,-1.672426446
+221,87,GHA,Ghana,Isaac Osei,5,1,Ashanti,47,Subin,Subin Sub-Metro,"Subin, Amakom",Constituency,Constituency,6.673290311,-1.63713807
+222,87,GHA,Ghana,Elizabeth Agyeman (Ms),6,1,Ashanti,43,Oforikrom,Oforikrom Sub-Metro,Ayigya,Constituency,Constituency,6.662731748,-1.524993209
+223,87,GHA,Ghana,Mubarak Mohammed Muntaka (Alhaji),4,1,Ashanti,12,Asawase,Asokore Mampong Sub-Metro,Asokore Mampong,Constituency,Constituency,6.682698577,-1.589327239
+224,87,GHA,Ghana,Owusu Afriyie Akoto (Dr),6,1,Ashanti,29,Kwadaso,Kwadaso Sub-Metro,Kwadaso,Constituency,Constituency,6.733614637,-1.681974486
+225,87,GHA,Ghana,Henry Kwabena Kokofu,0,1,Ashanti,18,Bantama,Bantama Sub-Metro,Bantama,Constituency,Constituency,6.733092818,-1.64152905
+226,87,GHA,Ghana,Anthony Akoto Osei (Dr),3,1,Ashanti,44,Old Tafo,Old Tafo Sub-Metro,Old Tafo,Constituency,Constituency,6.725970397,-1.602951814
+227,87,GHA,Ghana,"Osei Kyei-Mensah-Bonsu,",6,1,Ashanti,46,Suame,Suame Sub-Metro,Suame,Constituency,Constituency,6.720180927,-1.566816321
+228,87,GHA,Ghana,Collins Owusu Amankwah,1,1,Ashanti,31,Manhyia North,Manhyia Sub-Metro,Buokrom,Constituency,Constituency,6.734936171,-1.535506521
+229,87,GHA,Ghana,Matthew Opoku Prempeh (Dr.),0,1,Ashanti,32,Manhyia South,Manhyia Sub-Metro,Manhyia,Constituency,Constituency,6.707659783,-1.532843545
+230,87,GHA,Ghana,Frank Boakye Agyen,4,1,Ashanti,22,Effiduase-Asokore,Sekyere East District,Effiduase,Constituency,Constituency,6.79347409,-1.29793305
+231,87,GHA,Ghana,Kwame Anyimadu-Antwi,4,1,Ashanti,9,Asante Akim Central,Asante Akim Central Municipal,Konongo,Constituency,Constituency,6.626616206,-1.207860103
+232,87,GHA,Ghana,Philip Basoah,2,1,Ashanti,27,Kumawu,Sekyere Kumawu District,Kumawu,Constituency,Constituency,7.06598726,-0.955365645
+233,87,GHA,Ghana,Kofi Frimpong,10,1,Ashanti,28,Kwabre East,Kwabre East District,Mamponteng,Constituency,Constituency,6.805026665,-1.492189642
+234,87,GHA,Ghana,Nana Marfo Amaniampong,2,1,Ashanti,2,Afigya Kwabre North,Afigya Kwabre District,Kyekyewere,Constituency,Constituency,6.989100871,-1.611305394
+235,87,GHA,Ghana,Francis Addai-Nimoh,3,1,Ashanti,30,Mampong,Mampong Municipal,Mampong,Constituency,Constituency,7.14004524,-1.391123253
+236,87,GHA,Ghana,Ben Abdallah Banda,3,1,Ashanti,42,Offinso South,Offinso Municipal,Offinso,Constituency,Constituency,7.066527527,-1.727519806
+237,87,GHA,Ghana,Benito Owusu-Bio,5,1,Ashanti,16,Atwima Nwabiagya North,Atwima Nwabiagya District,Barekese,Constituency,Constituency,6.872056188,-1.758244839
+238,87,GHA,Ghana,Grace Addo (Ms),2,1,Ashanti,34,Manso Nkwanta,Amansie West District,Manso Nkwanta,Constituency,Constituency,6.288603305,-1.98713527
+239,87,GHA,Ghana,Johnson Kwaku Adu,2,1,Ashanti,7,Ahafo Ano South West,Ahafo Ano South District,Mankraso,Constituency,Constituency,6.890499004,-2.036892801
+240,87,GHA,Ghana,"Edward M Ennin,",4,1,Ashanti,38,Obuasi East,Obuasi Municipal,Wawase,Constituency,Constituency,5.968633328,-1.606419891
+241,87,GHA,Ghana,Collins Dauda (Alhaji),11,2,Brong Ahafo,51,Asutifi South,Asutifi South District,Hwidiem,Constituency,Constituency,6.815874459,-2.384609756
+242,87,GHA,Ghana,Vincent Oppong Asamoah,3,2,Brong Ahafo,58,Dormaa West,Dormaa West District,Nkrankwanta,Constituency,Constituency,7.002156403,-2.942248732
+243,87,GHA,Ghana,Kwaku Agyemang-Manu,6,2,Brong Ahafo,56,Dormaa Central,Dormaa Municipal,Dormaa Ahenkro,Constituency,Constituency,7.163451517,-2.862423977
+244,87,GHA,Ghana,Kwasi Ameyaw-Cheremeh,4,2,Brong Ahafo,69,Sunyani East,Sunyani Municipal,Sunyani,Constituency,Constituency,7.236224009,-2.334608247
+245,87,GHA,Ghana,Kwaku Agyenim-Boateng,2,2,Brong Ahafo,55,Berekum West,Berekum Municipal,Jinijini,Constituency,Constituency,7.443757758,-2.679778841
+246,87,GHA,Ghana,Ahmed Ibrahim,1,2,Brong Ahafo,53,Banda,Banda District,Banda Ahenkro,Constituency,Constituency,8.391841445,-2.412139186
+247,87,GHA,Ghana,Mensah Adjei,3,2,Brong Ahafo,75,Techiman South,Techiman Municipal,Techiman,Constituency,Constituency,7.527292298,-1.946894288
+248,87,GHA,Ghana,Emmanuel Kwadwo Agyekum,0,2,Brong Ahafo,64,Nkoranza South,Nkoranza South District,Nkoranza,Constituency,Constituency,7.483137229,-1.654769065
+249,87,GHA,Ghana,Twumasi Kwame Ampofo,0,2,Brong Ahafo,68,Sene West,Sene West District,Kwame Danso,Constituency,Constituency,7.777284018,-0.595786373
+250,87,GHA,Ghana,Kwabena Donkor (Dr),3,2,Brong Ahafo,65,Pru East,Pru East District,Yeji,Constituency,Constituency,8.073868407,-0.881801208
+251,87,GHA,Ghana,George Yaw Gyan-Baffour (Prof),7,2,Brong Ahafo,76,Wenchi,Wenchi District,Wenchi,Constituency,Constituency,7.736366498,-2.126992353
+252,87,GHA,Ghana,Matthew Nyindam,2,6,Northern,172,Damongo,West Gonja District,Damongo,Constituency,Constituency,9.180905986,-1.87305166
+253,87,GHA,Ghana,Donald Dari Soditey,8,6,Northern,182,Salaga North,East Gonja District,Makango,Constituency,Constituency,8.942265071,-0.536892501
+254,87,GHA,Ghana,Maban George Laliri,9,6,Northern,189,Tatale-Sanguli,Tatale-Sanguli District,Tatale,Constituency,Constituency,9.185587104,0.457122784
+255,87,GHA,Ghana,Mahama Ayariga,0,6,Northern,195,Yendi,Yendi District,Yendi,Constituency,Constituency,9.393573362,0.099586667
+256,87,GHA,Ghana,James Cecil Yanwube,4,6,Northern,186,Tamale Central,Tamale Metropolis,Tamale-Choggu,Constituency,Constituency,9.447462187,-0.852518859
+257,87,GHA,Ghana,Mustapha Ussif,2,6,Northern,190,Tolon,Tolon District,Tolon,Constituency,Constituency,9.396945356,-1.057893049
+258,87,GHA,Ghana,Alhassan Mumuni (Alhaji),6,6,Northern,179,Nanton,Savelugu-Nanton District,Nanton,Constituency,Constituency,9.59814382,-0.688779379
+259,87,GHA,Ghana,Mary Salifu Boforo (Hajia),4,6,Northern,181,Sagnarigu,Sagnarigu District,Sagnarigu,Constituency,Constituency,9.48812337,-0.660647538
+260,87,GHA,Ghana,Wahab Wumbei Suhiyini,NA,6,Northern,187,Tamale North,Tamale Metropolis,Tamale-Tishegu,Constituency,Constituency,9.522497353,-0.801767934
+261,87,GHA,Ghana,Joseph Bipoba Naabu,3,6,Northern,193,Yagaba-Kubori,Mamprugu-Moagduri District,Yagaba,Constituency,Constituency,10.25525505,-1.35853928
+262,87,GHA,Ghana,Ibrahim Dey Abubakari (Alhaji),5,6,Northern,180,Saboba,Saboba District,Saboba,Constituency,Constituency,9.673016225,0.180862269
+263,87,GHA,Ghana,Mutawakilu Adam,5,6,Northern,169,Bunkpurugu,Bunkpurugu-Yunyoo District,Bunkpurugu,Constituency,Constituency,10.45765916,0.063415255
+264,87,GHA,Ghana,Alfred Sugri Tia (Dr),5,6,Northern,175,Kpandai,Kpandai District,Kpandai,Constituency,Constituency,8.387709122,-0.023552498
+265,87,GHA,Ghana,Boniface Gambila Adagbila,0,7,Upper East,204,Builsa South,Builsa South District,Fumbisi,Constituency,Constituency,10.46633004,-1.303328977
+266,87,GHA,Ghana,David Adakudugu,5,7,Upper East,208,Navrongo Central,Kassena-Nankana East District,Navrongo,Constituency,Constituency,10.76900224,-1.045000775
+267,87,GHA,Ghana,Benson Tongo Baba,NA,7,Upper East,207,Nabdam,Nabdam District,Nangodi,Constituency,Constituency,10.79872458,-0.655922361
+268,87,GHA,Ghana,Alhassan Azong,6,7,Upper East,201,Bolgatanga East,Bolgatanga Municipal,Zuarungu,Constituency,Constituency,10.77302883,-0.805952756
+269,87,GHA,Ghana,Paul Derigubaa,6,7,Upper East,211,Tempane,Garu-Tempane District,Tempane,Constituency,Constituency,10.91404429,-0.080961974
+270,87,GHA,Ghana,Albert Abongo,6,7,Upper East,199,Binduri,Bawku Municipal,Binduri,Constituency,Constituency,11.06294578,-0.052912669
+271,87,GHA,Ghana,Apul Cletus Avoka,4,7,Upper East,209,Pusiga,Pusiga District,Pusiga,Constituency,Constituency,11.06775401,-0.201833146
+272,87,GHA,Ghana,Amin Amidu Suleimani,6,8,Upper West,217,Nadowli-Kaleo,Nadowli-Kaleo District,Nadowli,Constituency,Constituency,10.28621425,-2.669300944
+273,87,GHA,Ghana,Abdul-Rashid Pelpuo,6,8,Upper West,218,Nandom,Nandom District,Nandom,Constituency,Constituency,10.85950848,-2.789335465
+274,87,GHA,Ghana,Benjamin Bewa-Nyog Kunbuor (Dr.),3,8,Upper West,215,Lambussie-Karni,Lambussie-Karni District,Lambussie,Constituency,Constituency,10.86971498,-2.63789034
