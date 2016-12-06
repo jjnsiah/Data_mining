@@ -1,0 +1,6 @@
+Bota  — Number of children against religion.
+Ryan — Number of children against region.
+Baaman — Number of children against occupation.
+Joseph— Number of children against party
+Karimi— Number of children against age
+Maxwell— Number of children against gender
